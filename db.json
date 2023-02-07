@@ -1,11 +1,64 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server1", "author": "typicode1" ,"views":"23"},
-    { "id": 2, "title": "json-server2", "author": "typicode2" ,"views":"19"},
-    { "id": 3, "title": "json-server3", "author": "typicode3" ,"views":"9"}
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+"posts":[
+  {
+    "id": 1,
+    "name": "MCCO4rrQ3h",
+    "online": false,
+    "picture": "https://picsum.photos/seed/52/60/60"
+  },
+  {
+    "id": 2,
+    "name": "kIfSa6kPqH",
+    "online": true,
+    "picture": "https://picsum.photos/seed/46/60/60"
+  },
+  {
+    "id": 3,
+    "name": "mVF6AYhDmy",
+    "online": false,
+    "picture": "https://picsum.photos/seed/09/60/60"
+  },
+  {
+    "id": 4,
+    "name": "4SREPIfWZS",
+    "online": false,
+    "picture": "https://picsum.photos/seed/92/60/60"
+  },
+  {
+    "id": 5,
+    "name": "tVESZv0yA4",
+    "online": true,
+    "picture": "https://picsum.photos/seed/27/60/60"
+  },
+  {
+    "id": 6,
+    "name": "ckk0rDNSH0",
+    "online": true,
+    "picture": "https://picsum.photos/seed/95/60/60"
+  },
+  {
+    "id": 7,
+    "name": "WYZV0ihpQI",
+    "online": true,
+    "picture": "https://picsum.photos/seed/03/60/60"
+  },
+  {
+    "id": 8,
+    "name": "94gmGECwM3",
+    "online": true,
+    "picture": "https://picsum.photos/seed/90/60/60"
+  },
+  {
+    "id": 9,
+    "name": "hSidpJf82a",
+    "online": false,
+    "picture": "https://picsum.photos/seed/84/60/60"
+  },
+  {
+    "id": 10,
+    "name": "MmA4uTJ9Bh",
+    "online": true,
+    "picture": "https://picsum.photos/seed/29/60/60"
+}
+]
 }
