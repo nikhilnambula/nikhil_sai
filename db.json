@@ -3,61 +3,61 @@
   {
     "id": 1,
     "name": "MCCO4rrQ3h",
-    "online": false,
+    "online": "false",
     "picture": "https://picsum.photos/seed/52/60/60"
   },
   {
     "id": 2,
     "name": "kIfSa6kPqH",
-    "online": true,
+    "online": "true",
     "picture": "https://picsum.photos/seed/46/60/60"
   },
   {
     "id": 3,
     "name": "mVF6AYhDmy",
-    "online": false,
+    "online": "false",
     "picture": "https://picsum.photos/seed/09/60/60"
   },
   {
     "id": 4,
     "name": "4SREPIfWZS",
-    "online": false,
+    "online": "false",
     "picture": "https://picsum.photos/seed/92/60/60"
   },
   {
     "id": 5,
     "name": "tVESZv0yA4",
-    "online": true,
+    "online": "true",
     "picture": "https://picsum.photos/seed/27/60/60"
   },
   {
     "id": 6,
     "name": "ckk0rDNSH0",
-    "online": true,
+    "online": "true",
     "picture": "https://picsum.photos/seed/95/60/60"
   },
   {
     "id": 7,
     "name": "WYZV0ihpQI",
-    "online": true,
+    "online": "true",
     "picture": "https://picsum.photos/seed/03/60/60"
   },
   {
     "id": 8,
     "name": "94gmGECwM3",
-    "online": true,
+    "online": "true",
     "picture": "https://picsum.photos/seed/90/60/60"
   },
   {
     "id": 9,
     "name": "hSidpJf82a",
-    "online": false,
+    "online": "false",
     "picture": "https://picsum.photos/seed/84/60/60"
   },
   {
     "id": 10,
     "name": "MmA4uTJ9Bh",
-    "online": true,
+    "online": "true",
     "picture": "https://picsum.photos/seed/29/60/60"
 }
 ]
